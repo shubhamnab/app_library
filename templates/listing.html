@@ -1,0 +1,37 @@
+<ion-view view-title="SearchAround">
+  <ion-content style="">
+     <div class="cate-lv2" style="">
+          
+         
+         <div class="list card" ng-repeat="list in lists | filter:search">
+<a href="#/app/detail/{{list.id}}">
+  <div class="item item-avatar">
+ <!--   <img src="img/{{list.head}}/{{list.image}}">-->
+      <img src="img/data_images/{{list.image}}">
+    <h2>{{list.name}}</h2>
+    <p>{{list.address}}</p>
+    <p>{{list.email}}</p>
+    <p>{{list.mobile}}</p>
+  </div></a>
+
+  
+
+</div>
+         
+         
+  </div>
+  </ion-content>
+</ion-view>       
+         
+       <!--    <div class="card " ng-repeat="list in lists | filter:search" style="background-color:#EF473A">
+                   <!-- <a class="item item-thumbnail-left item-text-wrap" href="#/app/touch/{{list.id}}">
+                   
+                    <!--<h2>{{list.title}} </h2>
+                </a>
+                <div class="item item-image" style="background-color:#EF473A;text-align:centre !important" >
+                    <h1 style="text-align:centre !important;font-family:'cursive'">{{list.title}}</h1>
+  </div>
+                <a href="#/app/touch/{{list.id}}"><img class="full-image" ng-src="img/{{list.head}}/{{list.img}}" style="height:100%;color:" ></a>
+          
+            </div> -->
+        

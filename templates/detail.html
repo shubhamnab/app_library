@@ -1,0 +1,56 @@
+<ion-view view-title="SearchAround" style="background-color:">
+<ion-content class='header-background has-header padding scrolling' scroll='true'>
+   
+    
+    
+    
+    <div class="list card">
+        
+
+  <div class="item item-image">
+    <ion-slide-box on-slide-changed="slideHasChanged($index) ">
+  <ion-slide ng-repeat="image in images track by $index ">
+    <div class="item item-image">
+      <img src="img/data_images/{{image.image_name}}.jpg">
+      </div>
+  </ion-slide>
+ 
+</ion-slide-box>
+     
+    <h1>{{detail.name}}</h1>
+    <p>{{detail.address}}</p>
+    <p>{{detail.mobile}}</p>
+    <p>{{detail.email}}</p>
+    <p>{{detail.time}}</p>
+    <p></p>
+  </div>
+        
+        <div class="item item-body">
+            <h2>About</h2>
+    <p>{{detail.about}}</p>
+      </div>
+
+  <div class="item item-body">
+      <h2>Services</h2>
+      <div class="row">
+    <div class="col-40">Service </div>
+    <div class="col-20">Price </div>
+    <div class="col-25">Discount</div>
+    <div class="col-15">Buy</div>
+      </div>
+
+    <div class="row" ng-repeat="service in tuples track by $index">
+    <div class="col-40">{{service.service_name}} </div>
+    <div class="col-20">{{service.price}} </div>
+    <div class="col-25">{{service.discount}} </div>
+    <div class="col-15"><a href="#/app/order/{{service.service_id}}"><button class="button button-small button-assertive">Grab</button></a> </div>
+                        
+
+        
+    </div>
+        </div>
+
+  
+    </div>
+</ion-content>
+</ion-view>

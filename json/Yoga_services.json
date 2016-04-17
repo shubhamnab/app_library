@@ -1,0 +1,218 @@
+[{
+	"id": "yoga_2",
+	"service_id": "yoga_2_s1",
+	"service_name": "Yoga, Power Yoga",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "yoga_2",
+	"service_id": "yoga_2_s2",
+	"service_name": "Cardio",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "yoga_2",
+	"service_id": "yoga_2_s3",
+	"service_name": "Zumba",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "yoga_2",
+	"service_id": "yoga_2_s4",
+	"service_name": "Aerobics",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s1",
+	"service_name": "Aerobics/Zumba",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "yoga_2",
+	"service_id": "yoga_2_s5",
+	"service_name": "Stretching",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "yoga_3",
+	"service_id": "yoga_3_s1",
+	"service_name": "Cardio Section",
+	"price": "Rs.4000(Quarterly)",
+	"discount": "10%",
+	"net_price": "3600/-"
+}, {
+	"id": "yoga_3",
+	"service_id": "yoga_3_s2",
+	"service_name": "Power Section",
+	"price": "7000/-",
+	"discount": "10%",
+	"net_price": "3300/-"
+}, {
+	"id": "yoga_3",
+	"service_id": "yoga_3_s3",
+	"service_name": "Yoga & Aerobics",
+	"price": "12000/-",
+	"discount": "10%",
+	"net_price": "10800/-"
+}, {
+	"id": "yoga_3",
+	"service_id": "yoga_3_s4",
+	"service_name": "German Therapy",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_3",
+	"service_id": "yoga_3_s5",
+	"service_name": "SPA",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_5",
+	"service_id": "yoga_5_s1",
+	"service_name": "Yoga & Aerobics",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "yoga_4",
+	"service_id": "yoga_4_s1",
+	"service_name": "Yoga, Power Yoga",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_1",
+	"service_id": "yoga_1_s1",
+	"service_name": "Scientific Yoga ",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_1",
+	"service_id": "yoga_1_s2",
+	"service_name": "Meditation ",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_1",
+	"service_id": "yoga_1_s3",
+	"service_name": "Aerobics .",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_1",
+	"service_id": "yoga_1_s4",
+	"service_name": "power Yoga.",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_6",
+	"service_id": "yoga_6_s1",
+	"service_name": "Yoga & Aerobics",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "yoga_7",
+	"service_id": "yoga_7_s1",
+	"service_name": "Yoga, Power Yoga",
+	"price": "1200/-",
+	"discount": "10%",
+	"net_price": "1080/-"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s2",
+	"service_name": "Ball Aerobics/Yoga",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s3",
+	"service_name": "Step Aerobics",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s4",
+	"service_name": "Aerobics/Zumba",
+	"price": "9000/Yearly",
+	"discount": "2000/-off",
+	"net_price": "7000/Yearly"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s5",
+	"service_name": "Ball Aerobics/Yoga",
+	"price": "9000/Year",
+	"discount": "2000/-off",
+	"net_price": "7000/Year"
+}, {
+	"id": "yoga_8",
+	"service_id": "yoga_8_s6",
+	"service_name": "Step Aerobics",
+	"price": "9000/Year",
+	"discount": "2000/-off",
+	"net_price": "7000/Year"
+}, {
+	"id": "yoga_9",
+	"service_id": "yoga_9_s1",
+	"service_name": "Fitness Class",
+	"price": "1000/month",
+	"discount": "10%",
+	"net_price": "900/month"
+}, {
+	"id": "yoga_9",
+	"service_id": "yoga_9_s2",
+	"service_name": "Diseases Based  Classes",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": "1350/month"
+}, {
+	"id": "yoga_9",
+	"service_id": "yoga_9_s3",
+	"service_name": "Meditation Classes",
+	"price": "1000/month",
+	"discount": "10%",
+	"net_price": "900/month"
+}, {
+	"id": "yoga_9",
+	"service_id": "yoga_9_s4",
+	"service_name": "SatkaramSuddhi Kriya",
+	"price": "800/package",
+	"discount": "10%",
+	"net_price": "720/package"
+}, {
+	"id": "yoga_9",
+	"service_id": "yoga_9_s5",
+	"service_name": "Student(Pranayam & Surya Namaskar)",
+	"price": "800/month",
+	"discount": "10%",
+	"net_price": "720/month"
+}, {
+	"id": "yoga_10",
+	"service_id": "yoga_10_s1",
+	"service_name": "Dance",
+	"price": "800/-",
+	"discount": "-On Contact-",
+	"net_price": "800/month"
+}, {
+	"id": "yoga_10",
+	"service_id": "yoga_10_s2",
+	"service_name": "YOGA",
+	"price": "11000/-",
+	"discount": "3000/-",
+	"net_price": "8000/-"
+}]

@@ -1,0 +1,141 @@
+[{
+	"id": "guitar_1",
+	"service_id": "guitar_1_s1",
+	"service_name": "Guitar Classes",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_1",
+	"service_id": "guitar_1_s2",
+	"service_name": "keyboard",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_1",
+	"service_id": "guitar_1_s3",
+	"service_name": "tabla",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_1",
+	"service_id": "guitar_1_s4",
+	"service_name": "drums",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_1",
+	"service_id": "guitar_1_s5",
+	"service_name": "harmonium",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_1",
+	"service_id": "guitar_1_s6",
+	"service_name": "dholak",
+	"price": "1600/month,500(reg fee)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "guitar_2",
+	"service_id": "guitar_2_s1",
+	"service_name": "Guitar Classes",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "guitar_2",
+	"service_id": "guitar_2_s2",
+	"service_name": "keyboard",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "guitar_3",
+	"service_id": "guitar_3_s1",
+	"service_name": "music instrument",
+	"price": "1500/month",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "guitar_4",
+	"service_id": "guitar_4_s1",
+	"service_name": "symphony instrument",
+	"price": "1200(with intrument),1500(with",
+	"discount": "-On Contact-",
+	"net_price": "1200(with intrument),1500(with"
+}, {
+	"id": "guitar_4",
+	"service_id": "guitar_4_s2",
+	"service_name": "rhythm instrument",
+	"price": "1200(with intrument),1500(with",
+	"discount": "-On Contact-",
+	"net_price": "1200(with intrument),1500(with"
+}, {
+	"id": "guitar_5",
+	"service_id": "guitar_5_s1",
+	"service_name": "Guitar Classes",
+	"price": "5000/-",
+	"discount": "-On Contact-",
+	"net_price": "5000/-"
+}, {
+	"id": "guitar_5",
+	"service_id": "guitar_5_s2",
+	"service_name": "Drums",
+	"price": "7000/-",
+	"discount": "-On Contact-",
+	"net_price": "7000/-"
+}, {
+	"id": "guitar_6",
+	"service_id": "guitar_6_s1",
+	"service_name": "Instrument Classes",
+	"price": "--On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "---"
+}, {
+	"id": "guitar_7",
+	"service_id": "guitar_7_s1",
+	"service_name": "Guitar Classes",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "guitar_7",
+	"service_id": "guitar_7_s2",
+	"service_name": "keyboard",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "guitar_7",
+	"service_id": "guitar_7_s3",
+	"service_name": "Drums",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "guitar_7",
+	"service_id": "guitar_7_s4",
+	"service_name": "Instument Selling",
+	"price": "---",
+	"discount": "---",
+	"net_price": "---"
+}, {
+	"id": "guitar_8",
+	"service_id": "guitar_8_s1",
+	"service_name": "Instrument Classes",
+	"price": "1000/month,3000/three month",
+	"discount": "---",
+	"net_price": "1000/month,3000/three month"
+}, {
+	"id": "guitar_9",
+	"service_id": "guitar_9_s1",
+	"service_name": "Instrument Classes",
+	"price": "1000/-",
+	"discount": "-On Contact-",
+	"net_price": "1000/-"
+}]

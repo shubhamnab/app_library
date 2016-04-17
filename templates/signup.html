@@ -1,0 +1,33 @@
+<ion-modal-view>
+  <ion-header-bar>
+    <h1 class="title">Signup Form</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closesignup()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <form ng-submit="dosignup(signupData)" action="php/register.php" method="post">
+      <div class="list">
+           <label class="item item-input">
+          <span class="input-label">Name</span>
+          <input type="text" name="name" id="firstName" ng-model="signupData.name" required/>
+                <span ng-show="form.firstName.$dirty && form.firstName.$error.required" class="help-block">First name is required</span>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Email</span>
+          <input type="text" name="email" id="username" ng-model="signupData.username" required/>
+            <span ng-show="form.username.$dirty && form.username.$error.required" class="help-block">Username is required</span>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Password</span>
+          <input type="password" name="password" id="password" ng-model="signupData.password" required/>
+            <span ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Password is required</span>
+        </label>
+        <label class="item">
+          <button class="button button-block button-positive" type="submit" name="submit" value="register">Register</button>
+        </label>
+      </div>
+        </form>
+       
+  </ion-content>
+</ion-modal-view>

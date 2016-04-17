@@ -1,0 +1,43 @@
+<ion-view view-title="SearchAround">
+  <ion-content style="">
+     <div class="cate-lv2" >
+         
+  </div>
+      <div class="list card">
+
+  <div class="item item-body">
+    
+    <h1>Your Order</h1>
+    <h2>Service Name:{{ order.service_name}}</h2> 
+    <p>Total Price:{{order.price}}</p>
+    <p>Discount:{{order.discount}}</p>
+    <p>Net Price:{{order.ne_price}}</p>
+  </div>
+
+</div>
+      <form action="php/order.php" method="post">
+      <div class="list card">
+          <h2>Enter Your Details</h2>
+      <div class="item item-body">
+          <div class="list">
+  <label class="item item-input">
+    <input type="text" placeholder="Name">
+  </label>
+  <label class="item item-input">
+    <input type="email" placeholder="Email">
+  </label>
+  <label class="item item-input">
+    <textarea placeholder="Mobile"></textarea>
+  </label>
+  <label class="item item-input">
+    <textarea placeholder="Address"></textarea>
+  </label>
+    <button class="button button-full button-positive">
+  Order Now
+</button>
+</div>
+          </div>
+      </div>
+          </form>
+  </ion-content>
+</ion-view> 

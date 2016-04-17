@@ -1,0 +1,15 @@
+[{
+	"id": "swim_1",
+	"service_id": "swim_1_s1",
+	"service_name": "Swimming Class",
+	"price": "3500/month",
+	"discount": "-No-",
+	"net_price": "3500/month"
+}, {
+	"id": "swim_2",
+	"service_id": "swim_2_s1",
+	"service_name": "Swimming classes",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}]

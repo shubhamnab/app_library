@@ -1,0 +1,63 @@
+<ion-view view-title="SearchAround">
+  <ion-content>
+      <form >
+
+          
+<div class="list">
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Select Area
+    </div>
+    <select ngModel="area">
+      <option >Malviya Nagar</option>
+      <option>Tonk Fatak</option>
+      <option >Mansarovar</option>
+      <option >Vaishali Nagar</option>
+      <option >Vidyadhar Nagar</option>
+      <option >Bani Park</option>
+    </select>
+  </label>
+
+</div>
+
+          <div class="list">
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Select Service
+    </div>
+    <select ngModel="service">
+      <option >Dancing</option>
+      <option >Singing</option>
+      <option >Gym</option>
+      <option >Yoga</option>
+      <option >Salon</option>
+      <option >Guitar</option>
+      <option >Club</option>
+    </select>
+  </label>
+
+</div>
+          
+          <button class="button button-full button-positive" ng-click="selectedChoice()" type="submit" name="submit" value="search">
+  Submit
+  </button>
+
+</form>
+      
+      
+<ul class="cate-lv1">
+    <h2>Services around You</h2>
+<li>
+<a class="item-background cate-lv1-item" ng-repeat="service in services" href="#/app/listing/{{service.id}}" style="background: url(img/category/{{service.img}}) no-repeat; background-size: cover;">
+                <div class="item-wrapper">
+                    <h2>{{service.title}}</h2>
+                   
+                </div>
+            </a>
+            </li>
+        </ul>
+    
+  </ion-content>
+</ion-view>

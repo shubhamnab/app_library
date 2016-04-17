@@ -1,0 +1,750 @@
+[{
+	"id": "dance_4",
+	"service_id": "dance_4_s1",
+	"service_name": "All Types Dance",
+	"price": "1500/month",
+	"discount": "20%",
+	"net_price": "Rs 1200/month"
+}, {
+	"id": "dance_4",
+	"service_id": "dance_4_s2",
+	"service_name": "Fitness Classes",
+	"price": "1500/month",
+	"discount": "20%",
+	"net_price": "Rs 1200/month"
+}, {
+	"id": "dance_4",
+	"service_id": "dance_4_s3",
+	"service_name": "All Types Dance",
+	"price": "3500/three month",
+	"discount": "500/-",
+	"net_price": "3000/-"
+}, {
+	"id": "dance_4",
+	"service_id": "dance_4_s4",
+	"service_name": "Fitness Classes",
+	"price": "3500/ three month",
+	"discount": "500/-",
+	"net_price": "3000/-"
+}, {
+	"id": "dance_4",
+	"service_id": "dance_4_s5",
+	"service_name": "ladies Sangeet (12 Performances)",
+	"price": "35000/-",
+	"discount": "3000/-",
+	"net_price": "32000/-"
+}, {
+	"id": "dance_3",
+	"service_id": "dance_3_s1",
+	"service_name": "contemporary",
+	"price": "3000/-",
+	"discount": "500/-",
+	"net_price": "2500/-"
+}, {
+	"id": "dance_3",
+	"service_id": "dance_3_s2",
+	"service_name": "jazz",
+	"price": " 3000/-",
+	"discount": "500/-",
+	"net_price": "2500/-"
+}, {
+	"id": "dance_3",
+	"service_id": "dance_3_s3",
+	"service_name": "Hip-hop",
+	"price": "3000/-",
+	"discount": "500/-",
+	"net_price": "2500/-"
+}, {
+	"id": "dance_3",
+	"service_id": "dance_3_s4",
+	"service_name": "Free style",
+	"price": "3000/-",
+	"discount": "500/-",
+	"net_price": "2500/-"
+}, {
+	"id": "dance_3",
+	"service_id": "dance_3_s5",
+	"service_name": "Bollywood",
+	"price": "3000/-",
+	"discount": "500/-",
+	"net_price": "2500/-"
+}, {
+	"id": "dance_1",
+	"service_id": "dance_1_s1",
+	"service_name": "Bollywood",
+	"price": "1000/-",
+	"discount": "10%",
+	"net_price": "900/-"
+}, {
+	"id": "dance_1",
+	"service_id": "dance_1_s2",
+	"service_name": "Hip-hop",
+	"price": "1000/-",
+	"discount": "10%",
+	"net_price": "900/-"
+}, {
+	"id": "dance_1",
+	"service_id": "dance_1_s3",
+	"service_name": "Salsa",
+	"price": "1000/-",
+	"discount": "10%",
+	"net_price": "900/-"
+}, {
+	"id": "dance_1",
+	"service_id": "dance_1_s4",
+	"service_name": "Contep",
+	"price": "1000/-",
+	"discount": "10%",
+	"net_price": "900/-"
+}, {
+	"id": "dance_1",
+	"service_id": "dance_1_s5",
+	"service_name": "Acting and modeling",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "dance_5",
+	"service_id": "dance_5_s1",
+	"service_name": "Dance class",
+	"price": "3500/-",
+	"discount": "10%",
+	"net_price": "3150/-"
+}, {
+	"id": "dance_5",
+	"service_id": "dance_5_s2",
+	"service_name": "Aerobic class",
+	"price": "1500/-",
+	"discount": "10%",
+	"net_price": "1350/-"
+}, {
+	"id": "dance_5",
+	"service_id": "dance_5_s3",
+	"service_name": "Wedding theme",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_5",
+	"service_id": "dance_5_s4",
+	"service_name": "Birtday parties",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_5",
+	"service_id": "dance_5_s5",
+	"service_name": "Vermala concept",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_7",
+	"service_id": "dance_7_s1",
+	"service_name": "classic dance",
+	"price": "1600/-(reg fee-500/-)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "dance_7",
+	"service_id": "dance_7_s2",
+	"service_name": "kathak,folk",
+	"price": "1600/-(reg fee-500/-)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "dance_7",
+	"service_id": "dance_7_s3",
+	"service_name": "semi classic",
+	"price": "1600/-(reg fee-500/-)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "dance_7",
+	"service_id": "dance_7_s4",
+	"service_name": "western dance",
+	"price": "1600/-(reg fee-500/-)",
+	"discount": "--",
+	"net_price": "2100/-"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s1",
+	"service_name": "Hip-hop",
+	"price": "1500/month,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/month,2800(quaterly)"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s2",
+	"service_name": "salsa",
+	"price": "1500/month,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/month,2800(quaterly)"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s3",
+	"service_name": "Jazz",
+	"price": "1500/monthly,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/monthly,2800(quaterly)"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s4",
+	"service_name": "Contemporary",
+	"price": "1500/month,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/monthly,2800(quaterly)"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s5",
+	"service_name": "Bollywood",
+	"price": "1500/month,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/monthly,2800(quaterly)"
+}, {
+	"id": "dance_8",
+	"service_id": "dance_8_s6",
+	"service_name": "lyrical,Dub step,indian folk",
+	"price": "1500/month,3500(quaterly)",
+	"discount": "20%",
+	"net_price": "1200/month,2800(quaterly)"
+}, {
+	"id": "dance_9",
+	"service_id": "dance_9_s1",
+	"service_name": "dance class",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": "1350/-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s1",
+	"service_name": "western dance",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s2",
+	"service_name": "contemporary",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s3",
+	"service_name": "Jazz",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s4",
+	"service_name": "Bollywood",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s5",
+	"service_name": "Hip-hop",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_2",
+	"service_id": "dance_2_s6",
+	"service_name": "Salsa",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_10",
+	"service_id": "dance_10_s1",
+	"service_name": "Classic(KATHAK)",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "dance_12",
+	"service_id": "dance_12_s1",
+	"service_name": "Jazz",
+	"price": "3500/ three month",
+	"discount": "--",
+	"net_price": "3500/ three month"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s2",
+	"service_name": "Music",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_11",
+	"service_id": "dance_11_s3",
+	"service_name": "Contemporary Batch",
+	"price": "1200/-",
+	"discount": "20%",
+	"net_price": "960/-"
+}, {
+	"id": "dance_11",
+	"service_id": "dance_11_s4",
+	"service_name": "Hip-Hop Classes",
+	"price": "1200/-",
+	"discount": "20%",
+	"net_price": "960/-"
+}, {
+	"id": "dance_11",
+	"service_id": "dance_11_s1",
+	"service_name": "Kids Batch",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "dance_11",
+	"service_id": "dance_11_s2",
+	"service_name": "Zumba Batch",
+	"price": "1200/-",
+	"discount": "20%",
+	"net_price": "960/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s1",
+	"service_name": "Dance",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_12",
+	"service_id": "dance_12_s2",
+	"service_name": "Bollywood",
+	"price": "3500/ three month",
+	"discount": "--",
+	"net_price": "3500/ three month"
+}, {
+	"id": "dance_12",
+	"service_id": "dance_12_s3",
+	"service_name": "Hip-Hop",
+	"price": "3500/ three month",
+	"discount": "--",
+	"net_price": "3500/ three month"
+}, {
+	"id": "dance_12",
+	"service_id": "dance_12_s4",
+	"service_name": "Contemp",
+	"price": "3500/ three month",
+	"discount": "--",
+	"net_price": "3500/ three month"
+}, {
+	"id": "dance_12",
+	"service_id": "dance_12_s5",
+	"service_name": "Salsa",
+	"price": "3500/ three month",
+	"discount": "--",
+	"net_price": "3500/ three month"
+}, {
+	"id": "dance_14",
+	"service_id": "dance_14_s1",
+	"service_name": "Hip Hop",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_6",
+	"service_id": "dance_6_s1",
+	"service_name": "Swimming",
+	"price": "3500/month",
+	"discount": "--",
+	"net_price": "3500/month"
+}, {
+	"id": "dance_6",
+	"service_id": "dance_6_s2",
+	"service_name": "Dance Classes",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s3",
+	"service_name": "Drawing",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s4",
+	"service_name": "Art & Craft",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s5",
+	"service_name": "Chess",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s6",
+	"service_name": "Martial Arts",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s7",
+	"service_name": "Skating",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "dance_13",
+	"service_id": "dance_13_s8",
+	"service_name": "Handwriting & Calligraphy",
+	"price": "1300/-",
+	"discount": "--",
+	"net_price": "1300/-"
+}, {
+	"id": "dance_10",
+	"service_id": "dance_10_s2",
+	"service_name": "Vocal Classes",
+	"price": "4500/-",
+	"discount": "--",
+	"net_price": "4500/-"
+}, {
+	"id": "dance_10",
+	"service_id": "dance_10_s3",
+	"service_name": "Guitar",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "dance_10",
+	"service_id": "dance_10_s4",
+	"service_name": "Drums",
+	"price": "7000/-",
+	"discount": "--",
+	"net_price": "70000/-"
+}, {
+	"id": "dance_10",
+	"service_id": "dance_10_s5",
+	"service_name": "Drawing",
+	"price": "4000/-",
+	"discount": "--",
+	"net_price": "4000/-"
+}, {
+	"id": "dance_14",
+	"service_id": "dance_14_s2",
+	"service_name": "Jazz",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_14",
+	"service_id": "dance_14_s3",
+	"service_name": "Contemporary",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_14",
+	"service_id": "dance_14_s4",
+	"service_name": "Bollywood",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_14",
+	"service_id": "dance_14_s5",
+	"service_name": "Lyricial Hiphop",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_15",
+	"service_id": "dance_15_s1",
+	"service_name": "Contemporary",
+	"price": "1800/month",
+	"discount": "5%",
+	"net_price": "1710/month"
+}, {
+	"id": "dance_15",
+	"service_id": "dance_15_s2",
+	"service_name": "Bollywood",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "dance_15",
+	"service_id": "dance_15_s3",
+	"service_name": "Hip Hop",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "dance_15",
+	"service_id": "dance_15_s4",
+	"service_name": "Breaking",
+	"price": "1800/month",
+	"discount": "--",
+	"net_price": "1800/month"
+}, {
+	"id": "dance_15",
+	"service_id": "dance_15_s5",
+	"service_name": "Aerobics Zumba",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "dance_16",
+	"service_id": "dance_16_s1",
+	"service_name": "Lyrical Hip Hop",
+	"price": "800/month,2100/three month",
+	"discount": "--",
+	"net_price": "800/month,2100/three month"
+}, {
+	"id": "dance_16",
+	"service_id": "dance_16_s2",
+	"service_name": "B-Boying",
+	"price": "1000/month,2500/three month",
+	"discount": "--",
+	"net_price": "1000/month,2500/three month"
+}, {
+	"id": "dance_16",
+	"service_id": "dance_16_s3",
+	"service_name": "Contemporary",
+	"price": "800/month,2100/three month",
+	"discount": "--",
+	"net_price": "800/month,2100/three month"
+}, {
+	"id": "dance_16",
+	"service_id": "dance_16_s4",
+	"service_name": "Bollywood",
+	"price": "800/month,2100/three month",
+	"discount": "--",
+	"net_price": "800/month,2100/three month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s1",
+	"service_name": "Dance(KATHAK)",
+	"price": "1800/three month",
+	"discount": "--",
+	"net_price": "1800/three month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s2",
+	"service_name": "Dance(Western)",
+	"price": "1800/three month",
+	"discount": "--",
+	"net_price": "1800/three month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s3",
+	"service_name": "Dance(Folk)",
+	"price": "1800/three month",
+	"discount": "--",
+	"net_price": "1800/three month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s4",
+	"service_name": "Singing(Classical)",
+	"price": "800/month",
+	"discount": "--",
+	"net_price": "800/month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s5",
+	"service_name": "Singing(Semi-Classical)",
+	"price": "800/month",
+	"discount": "--",
+	"net_price": "800/month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s6",
+	"service_name": "Singing(Bollywood)",
+	"price": "800/month",
+	"discount": "--",
+	"net_price": "800/month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s7",
+	"service_name": "Aerobics,Yoga & Zumba",
+	"price": "1800/three month",
+	"discount": "--",
+	"net_price": "1800/three month"
+}, {
+	"id": "dance_17",
+	"service_id": "dance_17_s8",
+	"service_name": "Instrumental Music",
+	"price": "1800/three month",
+	"discount": "--",
+	"net_price": "1800/three month"
+}, {
+	"id": "dance_18",
+	"service_id": "dance_18_s1",
+	"service_name": "Dance Classes",
+	"price": "800/month",
+	"discount": "10%",
+	"net_price": "720/month"
+}, {
+	"id": "dance_18",
+	"service_id": "dance_18_s2",
+	"service_name": "Event Management",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_18",
+	"service_id": "dance_18_s3",
+	"service_name": "Wedding Planning",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_18",
+	"service_id": "dance_18_s4",
+	"service_name": "D.J.",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_18",
+	"service_id": "dance_18_s5",
+	"service_name": "Decoration",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "dance_19",
+	"service_id": "dance_19_s1",
+	"service_name": "Dance",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "dance_19",
+	"service_id": "dance_19_s2",
+	"service_name": "Reading-Writing Skills",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "dance_19",
+	"service_id": "dance_19_s3",
+	"service_name": "Tuition Classes(1st-10th)",
+	"price": "2000/-",
+	"discount": "20%",
+	"net_price": "1600/-"
+}, {
+	"id": "dance_19",
+	"service_id": "dance_19_s4",
+	"service_name": "Art & Craft",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "dance_19",
+	"service_id": "dance_19_s5",
+	"service_name": "Instrument Music",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "dance_20",
+	"service_id": "dance_20_s1",
+	"service_name": "Dance Classes",
+	"price": "1000/-",
+	"discount": "-On Contact-",
+	"net_price": "1000/-"
+}, {
+	"id": "dance_21",
+	"service_id": "dance_21_s1",
+	"service_name": "Dance",
+	"price": "1000/Month",
+	"discount": "-On Contact-",
+	"net_price": "1000/month"
+}, {
+	"id": "dance_21",
+	"service_id": "dance_21_s2",
+	"service_name": "Yoga",
+	"price": "1000/Month",
+	"discount": "-On Contact-",
+	"net_price": "1000/month"
+}, {
+	"id": "dance_21",
+	"service_id": "dance_21_s3",
+	"service_name": "Tution( Class 6th to 7th )",
+	"price": "600/Month",
+	"discount": "-On Contact-",
+	"net_price": "600/-"
+}, {
+	"id": "dance_22",
+	"service_id": "dance_22_s1",
+	"service_name": "Hip-Hop/Salsa/Jazz/Bollywood/Belly dance/Kathak",
+	"price": "1000/Month",
+	"discount": "-On Contact-",
+	"net_price": "1000/month"
+}, {
+	"id": "dance_22",
+	"service_id": "dance_22_s2",
+	"service_name": "Aerobic Fitness",
+	"price": "1200/month",
+	"discount": "-On Contact-",
+	"net_price": "1200/month"
+}, {
+	"id": "dance_23",
+	"service_id": "dance_23_s1",
+	"service_name": "Vocal/Dances",
+	"price": "1750/-Month",
+	"discount": "25%",
+	"net_price": "9800/6 Month"
+}, {
+	"id": "dance_23",
+	"service_id": "dance_23_s2",
+	"service_name": "Drum",
+	"price": "7500/3Month",
+	"discount": "-On Contact-",
+	"net_price": "7500/3Month"
+}, {
+	"id": "dance_24",
+	"service_id": "dance_24_s1",
+	"service_name": "Kathak",
+	"price": "1000/Month",
+	"discount": "20%",
+	"net_price": "800/-Month"
+}, {
+	"id": "dance_24",
+	"service_id": "dance_24_s2",
+	"service_name": "Western",
+	"price": "1000/Month",
+	"discount": "20%",
+	"net_price": "800/-Month"
+}, {
+	"id": "dance_24",
+	"service_id": "dance_24_s3",
+	"service_name": "Music[Vocal & Instrumental]",
+	"price": "1000/- Month",
+	"discount": "10%",
+	"net_price": "900/-Month"
+}, {
+	"id": "dance_24",
+	"service_id": "dance_24_s4",
+	"service_name": "Karate",
+	"price": "1300/- Month",
+	"discount": "200/-",
+	"net_price": "1100/-Month"
+}, {
+	"id": "dance_24",
+	"service_id": "dance_24_s5",
+	"service_name": "Drawing",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-Month"
+}, {
+	"id": "dance_25",
+	"service_id": "dance_25_s1",
+	"service_name": "Dance",
+	"price": "500/-",
+	"discount": "--",
+	"net_price": "500/-"
+}]

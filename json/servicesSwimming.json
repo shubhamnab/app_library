@@ -1,0 +1,25 @@
+[{
+	"id": "swim_1",
+	"email": "",
+	"name": "Boat House",
+	"about": "Boat House is an excellent place to learn swimming by swimming experts. Completely safe pools and good experts.",
+	"mobile": 8290355555,
+	"address": "Malhotra Nagar VKI NO. 1 Near Vidyadhar Nagar Stadium Vidyadhar Nagar",
+	"time": "10 AM - 5 PM",
+	"area": "Vidhyadhar Nagar",
+	"image": "swim_1_g1.jpg",
+	"latitude": 26.972618,
+	"longitude": 75.783167
+}, {
+	"id": "swim_2",
+	"email": "stwilfred@gmail.com",
+	"name": "SAINT WILFRED SWIMMING CLASSES",
+	"about": "Caoching by Rajesh sir (national coach)",
+	"mobile": 9828435430,
+	"address": "Saint Wilfred's ,meera marg,mansarover,jaipur",
+	"time": "6 AM-10 PM,5 PM- 7 PM",
+	"area": "Mansarovar",
+	"image": "swim_2_g1.jpg",
+	"latitude": 0,
+	"longitude": 0
+}]

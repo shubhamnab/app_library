@@ -1,0 +1,32 @@
+<ion-modal-view>
+  <ion-header-bar>
+    <h1 class="title">Login</h1>
+    <div class="buttons">
+      <button class="button button-clear" ng-click="closeLogin()">Close</button>
+    </div>
+  </ion-header-bar>
+  <ion-content>
+    <form action="php/login.php" method="post">
+      <div class="list">
+        <label class="item item-input">
+          <span class="input-label">Email</span>
+          <input type="text" name="email" ng-model="loginData.username" required/>
+            <span ng-show="form.username.$dirty && form.username.$error.required" class="help-block">Username is required</span>
+        </label>
+        <label class="item item-input">
+          <span class="input-label">Password</span>
+          <input type="password" name="password" ng-model="loginData.password" required/>
+            <span ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Password is required</span>
+        </label>
+        <label class="item">
+          <button class="button button-full button-positive" type="submit" name="submit" value="Login">
+            Submit
+          </button>
+        </label>
+      </div>
+        </form>
+          <label class="item"> <form ng-submit="signupForm()"><button class="button button-block button-positive" type="submit"  value="signup" > Sign Up</button></form>
+              </label>
+       <p>{{Message}}</p>
+  </ion-content>
+</ion-modal-view>

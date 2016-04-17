@@ -1,0 +1,582 @@
+[{
+	"id": "saloon_3",
+	"discount": "Upto 40%",
+	"service_name": "Facial's",
+	"price": "400-4000/-",
+	"net_price": "--",
+	"service_id": "saloon_3_s1"
+}, {
+	"id": "saloon_3",
+	"discount": "Upto 20%",
+	"service_name": "Waxing's",
+	"price": "200-3000/-",
+	"net_price": "--",
+	"service_id": "saloon_3_s2"
+}, {
+	"id": "saloon_3",
+	"discount": "Upto 20%",
+	"service_name": "Pedicure/Menicure",
+	"price": "300-1500/-",
+	"net_price": "--",
+	"service_id": "saloon_3_s3"
+}, {
+	"id": "saloon_3",
+	"discount": "Upto 30%",
+	"service_name": "Spa",
+	"price": "1000-5000/-",
+	"net_price": "--",
+	"service_id": "saloon_3_s4"
+}, {
+	"id": "saloon_3",
+	"discount": "Upto 50%",
+	"service_name": "Rebonding",
+	"price": "4000-20000/-",
+	"net_price": "--",
+	"service_id": "saloon_3_s5"
+}, {
+	"id": "saloon_4",
+	"discount": "40%",
+	"service_name": "Western therapy",
+	"price": " 2000/hr",
+	"net_price": "1200/hr",
+	"service_id": "saloon_4_s1"
+}, {
+	"id": "saloon_4",
+	"discount": "40%",
+	"service_name": "Aroma(oil based)",
+	"price": "2000/hr",
+	"net_price": "1200/hr",
+	"service_id": "saloon_4_s2"
+}, {
+	"id": "saloon_4",
+	"discount": "40%",
+	"service_name": "Swedish",
+	"price": "2000/hr",
+	"net_price": "1200/hr",
+	"service_id": "saloon_4_s3"
+}, {
+	"id": "saloon_4",
+	"discount": "40%",
+	"service_name": "Deep tissue",
+	"price": "2000/hr",
+	"net_price": "1200/hr",
+	"service_id": "saloon_4_s4"
+}, {
+	"id": "saloon_4",
+	"discount": "40%",
+	"service_name": "Thai tradition massage",
+	"price": "2000/hr",
+	"net_price": "1200/hr",
+	"service_id": "saloon_4_s5"
+}, {
+	"id": "saloon_4",
+	"discount": "--",
+	"service_name": "Face Massage",
+	"price": "650/half hour",
+	"net_price": "650/half hour",
+	"service_id": "saloon_4_s6"
+}, {
+	"id": "saloon_4",
+	"discount": "--",
+	"service_name": "Head,neck & shoulder",
+	"price": "650/half hour",
+	"net_price": "650/half hour",
+	"service_id": "saloon_4_s7"
+}, {
+	"id": "saloon_1",
+	"discount": "--",
+	"service_name": "Cutting",
+	"price": "100/-",
+	"net_price": "100/-",
+	"service_id": "saloon_1_s1"
+}, {
+	"id": "saloon_4",
+	"discount": "--",
+	"service_name": "Body scrub",
+	"price": "1000/45 min",
+	"net_price": "1000/45 min",
+	"service_id": "saloon_4_s8"
+}, {
+	"id": "saloon_1",
+	"discount": "--",
+	"service_name": "Shave",
+	"price": "50/-",
+	"net_price": "50/-",
+	"service_id": "saloon_1_s2"
+}, {
+	"id": "saloon_1",
+	"discount": "--",
+	"service_name": "Bleach",
+	"price": "200/-",
+	"net_price": "200/-",
+	"service_id": "saloon_1_s3"
+}, {
+	"id": "saloon_1",
+	"discount": "--",
+	"service_name": "Facial",
+	"price": "500-4000/-",
+	"net_price": "500-4000/-",
+	"service_id": "saloon_1_s4"
+}, {
+	"id": "saloon_1",
+	"discount": "--",
+	"service_name": "SPA",
+	"price": "500-700/-",
+	"net_price": "500-700/-",
+	"service_id": "saloon_1_s5"
+}, {
+	"id": "saloon_4",
+	"discount": "--",
+	"service_name": "Foot reflexology",
+	"price": "650/half hour",
+	"net_price": "650/half hour",
+	"service_id": "saloon_4_s9"
+}, {
+	"id": "saloon_2",
+	"discount": "--",
+	"service_name": "Hair Wash",
+	"price": "100/-",
+	"net_price": "100/-",
+	"service_id": "saloon_2_s1"
+}, {
+	"id": "saloon_2",
+	"discount": "--",
+	"service_name": "Hair Cut with Wash",
+	"price": "350/-",
+	"net_price": "350/-",
+	"service_id": "saloon_2_s2"
+}, {
+	"id": "saloon_2",
+	"discount": "--",
+	"service_name": "Hair Color",
+	"price": "1500/- onwards",
+	"net_price": "1500/- onwards",
+	"service_id": "saloon_2_s3"
+}, {
+	"id": "saloon_2",
+	"discount": "--",
+	"service_name": "Hair Touch",
+	"price": "500/- onwards",
+	"net_price": "500/- onwards",
+	"service_id": "saloon_2_s4"
+}, {
+	"id": "saloon_2",
+	"discount": "--",
+	"service_name": "Hair Spa",
+	"price": "700/- onwards",
+	"net_price": "700/- onwards",
+	"service_id": "saloon_2_s5"
+}, {
+	"id": "saloon_6",
+	"discount": "--",
+	"service_name": "Hair cut (boys)",
+	"price": "70/-",
+	"net_price": "70/-",
+	"service_id": "saloon_6_s1"
+}, {
+	"id": "saloon_5",
+	"discount": "--",
+	"service_name": "Hair Spa",
+	"price": "1000/-",
+	"net_price": "1000/-",
+	"service_id": "saloon_5_s4"
+}, {
+	"id": "saloon_5",
+	"discount": "50%",
+	"service_name": "Facial's(Oxy Blast)",
+	"price": "1800/-",
+	"net_price": "900/-",
+	"service_id": "saloon_5_s1"
+}, {
+	"id": "saloon_5",
+	"discount": "50%",
+	"service_name": "Hair cut (For Boys)",
+	"price": "200/-",
+	"net_price": "100/-",
+	"service_id": "saloon_5_s5"
+}, {
+	"id": "saloon_5",
+	"discount": "50%",
+	"service_name": "Hair cut (For Girls)",
+	"price": "400/-",
+	"net_price": "200/-",
+	"service_id": "saloon_5_s6"
+}, {
+	"id": "saloon_6",
+	"discount": "--",
+	"service_name": "Hair cut (For Girls)",
+	"price": "150/-",
+	"net_price": "150/-",
+	"service_id": "saloon_6_s2"
+}, {
+	"id": "saloon_6",
+	"discount": "--",
+	"service_name": "Boys shave",
+	"price": "30/-",
+	"net_price": "30/-",
+	"service_id": "saloon_6_s5"
+}, {
+	"id": "saloon_6",
+	"discount": "10%",
+	"service_name": "Spa (For Boys)",
+	"price": "250/-",
+	"net_price": "225/-",
+	"service_id": "saloon_6_s3"
+}, {
+	"id": "saloon_6",
+	"discount": "15%",
+	"service_name": "Spa(For Girls)",
+	"price": "600/-",
+	"net_price": "510/-",
+	"service_id": "saloon_6_s4"
+}, {
+	"id": "saloon_7",
+	"discount": "--",
+	"service_name": "Spa",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_7_s1"
+}, {
+	"id": "saloon_8",
+	"discount": "10%",
+	"service_name": "Cardio Section",
+	"price": "4000/- Quarterly",
+	"net_price": "3600/- Quarterly",
+	"service_id": "saloon_8_s1"
+}, {
+	"id": "saloon_8",
+	"discount": "10%",
+	"service_name": "Power Section",
+	"price": "7000/- Half Yearly",
+	"net_price": "6300/- Half Yearly",
+	"service_id": "saloon_8_s1"
+}, {
+	"id": "saloon_9",
+	"discount": "25%",
+	"service_name": "Hair cut (For Boys)",
+	"price": "150/-",
+	"net_price": "115/-",
+	"service_id": "saloon_9_s1"
+}, {
+	"id": "saloon_9",
+	"discount": "20%",
+	"service_name": "Facial",
+	"price": "550/-",
+	"net_price": "440/-",
+	"service_id": "saloon_9_s2"
+}, {
+	"id": "saloon_9",
+	"discount": "20%",
+	"service_name": "Pedicure",
+	"price": "450/-",
+	"net_price": "360/-",
+	"service_id": "saloon_9_s3"
+}, {
+	"id": "saloon_9",
+	"discount": "--",
+	"service_name": "Smoothening",
+	"price": "4000/-",
+	"net_price": "4000/-",
+	"service_id": "saloon_9_s4"
+}, {
+	"id": "saloon_9",
+	"discount": "Cut free",
+	"service_name": "Hair color",
+	"price": "650/-",
+	"net_price": "650/-",
+	"service_id": "saloon_9_s5"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Hair & Beauty",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_10_s1"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Facial",
+	"price": "600-8000/-",
+	"net_price": "480-6400/-",
+	"service_id": "saloon_10_s2"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Bleach Waxing",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_10_s3"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Hair Spa",
+	"price": "1000-5000/-",
+	"net_price": "800-4000/-",
+	"service_id": "saloon_10_s4"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Straightening",
+	"price": "5000/-",
+	"net_price": "4000/-",
+	"service_id": "saloon_10_s5"
+}, {
+	"id": "saloon_10",
+	"discount": "20%",
+	"service_name": "Coloring",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_10_s6"
+}, {
+	"id": "saloon_11",
+	"discount": "--",
+	"service_name": "Hair cut (For Boys)",
+	"price": "70/-",
+	"net_price": "70/-",
+	"service_id": "saloon_11_s1"
+}, {
+	"id": "saloon_11",
+	"discount": "--",
+	"service_name": "Facial's",
+	"price": "from 400/-",
+	"net_price": "from 400/-",
+	"service_id": "saloon_11_s2"
+}, {
+	"id": "saloon_11",
+	"discount": "--",
+	"service_name": "Bleach",
+	"price": "150/-",
+	"net_price": "150/-",
+	"service_id": "saloon_11_s3"
+}, {
+	"id": "saloon_11",
+	"discount": "--",
+	"service_name": "Hair Spa",
+	"price": "300/-",
+	"net_price": "300/-",
+	"service_id": "saloon_11_s4"
+}, {
+	"id": "saloon_12",
+	"discount": "30%",
+	"service_name": "Hair & Skin Service",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_12_s1"
+}, {
+	"id": "saloon_12",
+	"discount": "30%",
+	"service_name": "Rebounding",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_12_s2"
+}, {
+	"id": "saloon_12",
+	"discount": "30%",
+	"service_name": "Chemical Work",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_12_s3"
+}, {
+	"id": "saloon_12",
+	"discount": "30%",
+	"service_name": "Body massage",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_12_s4"
+}, {
+	"id": "saloon_12",
+	"discount": "30%",
+	"service_name": "Bridal makeup",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_12_s5"
+}, {
+	"id": "saloon_5",
+	"discount": "50%",
+	"service_name": "Facial's(O3+)",
+	"price": "2000/-",
+	"net_price": "1000/-",
+	"service_id": "saloon_5_s2"
+}, {
+	"id": "saloon_5",
+	"discount": "50%",
+	"service_name": "Facial's(Lotus)",
+	"price": "1800/-",
+	"net_price": "900/-",
+	"service_id": "saloon_5_s3"
+}, {
+	"id": "saloon_6",
+	"discount": "12%",
+	"service_name": "Facial",
+	"price": "350-1000/-",
+	"net_price": "308-880/-",
+	"service_id": "saloon_6_s6"
+}, {
+	"id": "saloon_8",
+	"discount": "10%",
+	"service_name": "Yoga & Aerobics",
+	"price": "12000/- Yearly",
+	"net_price": "10800/- Yearly",
+	"service_id": "saloon_8_s3"
+}, {
+	"id": "saloon_8",
+	"discount": "-On Contact-",
+	"service_name": "German Therapy",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_8_s4"
+}, {
+	"id": "saloon_8",
+	"discount": "10%",
+	"service_name": "SPA",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_8_s5"
+}, {
+	"id": "saloon_13",
+	"discount": "--",
+	"service_name": "Hair Cut(For Male) ",
+	"price": "150/-",
+	"net_price": "150/-",
+	"service_id": "saloon_13_s1"
+}, {
+	"id": "saloon_13",
+	"discount": "--",
+	"service_name": "Hair Cut(For Female)",
+	"price": "300/-",
+	"net_price": "300/-",
+	"service_id": "saloon_13_s2"
+}, {
+	"id": "saloon_13",
+	"discount": "15%",
+	"service_name": "Facial",
+	"price": "500-3000/-",
+	"net_price": "425-2550/-",
+	"service_id": "saloon_13_s3"
+}, {
+	"id": "saloon_13",
+	"discount": "10%",
+	"service_name": "Hair Spa",
+	"price": "800-1000/-",
+	"net_price": "720-900/-",
+	"service_id": "saloon_13_s4"
+}, {
+	"id": "saloon_13",
+	"discount": "--",
+	"service_name": "Pedicure",
+	"price": "600/-",
+	"net_price": "600/-",
+	"service_id": "saloon_13_s5"
+}, {
+	"id": "saloon_13",
+	"discount": "--",
+	"service_name": "Waxing",
+	"price": "800/-",
+	"net_price": "800/-",
+	"service_id": "saloon_13_s6"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Hair Cut",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s1"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Hair Spa",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s2"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Color your hair",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s3"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Hair Straightning",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s4"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Hair Wash",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s5"
+}, {
+	"id": "saloon_14",
+	"discount": "-On Contact-",
+	"service_name": "Take care Hair",
+	"price": "-On Contact-",
+	"net_price": "-On Contact-",
+	"service_id": "saloon_14_s6"
+}, {
+	"id": "saloon_15",
+	"discount": "25-30%",
+	"service_name": "Swedish Massage",
+	"price": "1700/-",
+	"net_price": "1190-1275/-",
+	"service_id": "saloon_15_s1"
+}, {
+	"id": "saloon_15",
+	"discount": "25-30%",
+	"service_name": "Deep Tissue Massage",
+	"price": "1700/-",
+	"net_price": "1190-1275/-",
+	"service_id": "saloon_15_s2"
+}, {
+	"id": "saloon_15",
+	"discount": "25-30%",
+	"service_name": "Aroma Theory",
+	"price": "1700/-",
+	"net_price": "1190-1275/-",
+	"service_id": "saloon_15_s3"
+}, {
+	"id": "saloon_15",
+	"discount": "25-30%",
+	"service_name": "Steam Bath",
+	"price": "1700/-",
+	"net_price": "1190-1275/-",
+	"service_id": "saloon_15_s4"
+}, {
+	"id": "saloon_15",
+	"discount": "25-30%",
+	"service_name": "Pain Relief Therapy",
+	"price": "1700/-",
+	"net_price": "1190-1275/-",
+	"service_id": "saloon_15_s5"
+}, {
+	"id": "saloon_16",
+	"discount": "25%",
+	"service_name": "Aroma Swedish",
+	"price": "2000/-Hr",
+	"net_price": 1500,
+	"service_id": "saloon_16_s1"
+}, {
+	"id": "saloon_16",
+	"discount": "25%",
+	"service_name": "Deep Tissue Therapy",
+	"price": "2000/Hr",
+	"net_price": "1500/-",
+	"service_id": "saloon_16_s2"
+}, {
+	"id": "saloon_16",
+	"discount": "-On Contact-",
+	"service_name": "Body Scrub",
+	"price": "1500/Half Hr",
+	"net_price": "1500/-",
+	"service_id": "saloon_16_s3"
+}, {
+	"id": "saloon_16",
+	"discount": "25%",
+	"service_name": "Traditional Message",
+	"price": "2000/-Hr",
+	"net_price": "1500/-",
+	"service_id": "saloon_16_s4"
+}]

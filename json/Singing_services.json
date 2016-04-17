@@ -1,0 +1,351 @@
+[{
+	"id": "sing_1",
+	"service_id": "sing_1_s1",
+	"service_name": "Vocal Classes",
+	"price": "1600/-",
+	"discount": "500/-",
+	"net_price": "1100/-"
+}, {
+	"id": "sing_1",
+	"service_id": "sing_1_s2",
+	"service_name": "Dance Classes",
+	"price": "1600/-",
+	"discount": "500/-",
+	"net_price": "1100/-"
+}, {
+	"id": "sing_1",
+	"service_id": "sing_1_s3",
+	"service_name": "Instrument Classes",
+	"price": "1600/-",
+	"discount": "500/-",
+	"net_price": "1100/-"
+}, {
+	"id": "sing_1",
+	"service_id": "sing_1_s4",
+	"service_name": "Vocal Classes",
+	"price": "1600/-",
+	"discount": "500/-",
+	"net_price": "1100/-"
+}, {
+	"id": "sing_1",
+	"service_id": "sing_1_s5",
+	"service_name": "Dance Classes",
+	"price": "1600/-",
+	"discount": "500/-",
+	"net_price": "1100/-"
+}, {
+	"id": "sing_2",
+	"service_id": "sing_2_s1",
+	"service_name": "Music without Instrument",
+	"price": "1200/-",
+	"discount": "--",
+	"net_price": "1200/-"
+}, {
+	"id": "sing_2",
+	"service_id": "sing_2_s2",
+	"service_name": "Music With Instrument",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_3",
+	"service_id": "sing_3_s1",
+	"service_name": "Music Insrument",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "sing_3",
+	"service_id": "sing_3_s2",
+	"service_name": "Vocal Classes",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "sing_4",
+	"service_id": "sing_4_s1",
+	"service_name": "Guitar Classes",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_4",
+	"service_id": "sing_4_s2",
+	"service_name": "keyboard",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_4",
+	"service_id": "sing_4_s3",
+	"service_name": "Vocal Classes",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_6",
+	"service_id": "sing_6_s2",
+	"service_name": "Vocal Classes",
+	"price": "4500/-",
+	"discount": "--",
+	"net_price": "4500/-"
+}, {
+	"id": "sing_5",
+	"service_id": "sing_5_s1",
+	"service_name": "Music School(Basic)",
+	"price": "1800/month",
+	"discount": "10%",
+	"net_price": "1620/month"
+}, {
+	"id": "sing_5",
+	"service_id": "sing_5_s2",
+	"service_name": "Music School(Advanced)",
+	"price": "2000/month",
+	"discount": "10%",
+	"net_price": "1800/month"
+}, {
+	"id": "sing_5",
+	"service_id": "sing5_s3",
+	"service_name": "Recording Studio",
+	"price": "800/month",
+	"discount": "10%",
+	"net_price": "720/month"
+}, {
+	"id": "sing_6",
+	"service_id": "sing_6_s1",
+	"service_name": "Classical(KATHAK)",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "sing_6",
+	"service_id": "sing_6_s3",
+	"service_name": "Guitar",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "sing_6",
+	"service_id": "sing_6_s4",
+	"service_name": "Drums",
+	"price": "7000/-",
+	"discount": "--",
+	"net_price": "7000/-"
+}, {
+	"id": "sing_6",
+	"service_id": "sing_6_s5",
+	"service_name": "Drawing",
+	"price": "4000/-",
+	"discount": "--",
+	"net_price": "4000/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s1",
+	"service_name": "Music",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s2",
+	"service_name": "Dance",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s3",
+	"service_name": "Drawing",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s4",
+	"service_name": "Art & Craft",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s5",
+	"service_name": "Chess",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s6",
+	"service_name": "Martial Arts",
+	"price": "1000/-",
+	"discount": "--",
+	"net_price": "1000/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s7",
+	"service_name": "Skating",
+	"price": "1500/-",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_7",
+	"service_id": "sing_7_s8",
+	"service_name": "Handwriting & Calligraphy",
+	"price": "1300/-",
+	"discount": "--",
+	"net_price": "1300/-"
+}, {
+	"id": "sing_8",
+	"service_id": "sing_8_s1",
+	"service_name": "Indian classic singing form dhruvophad gaayaki",
+	"price": "--",
+	"discount": "100%",
+	"net_price": "--"
+}, {
+	"id": "sing_9",
+	"service_id": "sing_9_s1",
+	"service_name": "Vocal Classes",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "sing_10",
+	"service_id": "sing_10_s1",
+	"service_name": "Vocal Classes",
+	"price": "1500/Month",
+	"discount": "--",
+	"net_price": "1500/-"
+}, {
+	"id": "sing_11",
+	"service_id": "sing_11_s1",
+	"service_name": "Vocal Classes",
+	"price": "1000/-",
+	"discount": "-On Contact-",
+	"net_price": "1000/-"
+}, {
+	"id": "sing_11",
+	"service_id": "sing_11_s1",
+	"service_name": "Vocal Classes",
+	"price": "1000/-",
+	"discount": "-On Contact-",
+	"net_price": "1000/-"
+}, {
+	"id": "sing_9",
+	"service_id": "sing_9_s2",
+	"service_name": "Keyboard",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "sing_9",
+	"service_id": "sing_9_s3",
+	"service_name": "Guitar",
+	"price": "1000/-",
+	"discount": "20%",
+	"net_price": "800/-"
+}, {
+	"id": "sing_9",
+	"service_id": "sing_9_s4",
+	"service_name": "Drum",
+	"price": "1500/-",
+	"discount": "20%",
+	"net_price": "1200/-"
+}, {
+	"id": "sing_9",
+	"service_id": "sing_9_s5",
+	"service_name": "Instrument Selling",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_12",
+	"service_id": "sing_12_s1",
+	"service_name": "Vocal",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "--"
+}, {
+	"id": "sing_12",
+	"service_id": "sing_12_s2",
+	"service_name": "Instrumental ",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "--"
+}, {
+	"id": "sing_12",
+	"service_id": "sing_12_s2",
+	"service_name": "Dances/Calligraphy",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_13",
+	"service_id": "sing_13_s1",
+	"service_name": "Guitar/Piano/Keyboard",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_13",
+	"service_id": "sing_13_s2",
+	"service_name": "Drums/Vocal(Westen/Classical)",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_14",
+	"service_id": "sing_14_s1",
+	"service_name": "Vocal",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_14",
+	"service_id": "sing_14_s2",
+	"service_name": "Instrumental ",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_14",
+	"service_id": "sing_14_s3",
+	"service_name": "Kathak",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "sing_14",
+	"service_id": "sing_14_s4",
+	"service_name": "Western Dance",
+	"price": "-On Contact-",
+	"discount": "--On Contact--",
+	"net_price": "--On Contact--"
+}, {
+	"id": "sing_14",
+	"service_id": "sing_14_s5",
+	"service_name": "Fine Arts",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "singing_15",
+	"service_id": "singing_15_s1",
+	"service_name": "Classical",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "singing_15",
+	"service_id": "singing_15_s2",
+	"service_name": "Tabla,Sitar,Violin",
+	"price": "1500/month",
+	"discount": "-On Contact-",
+	"net_price": "1500/month"
+}, {
+	"id": "singing_15",
+	"service_id": "singing_15_s3",
+	"service_name": "Guitar",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}]

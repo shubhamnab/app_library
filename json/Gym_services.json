@@ -1,0 +1,869 @@
+[{
+	"id": "gym_1",
+	"service_id": "gym_1_s1",
+	"service_name": "Weight Traning",
+	"price": "1200/month",
+	"discount": "10%",
+	"net_price": 1080
+}, {
+	"id": "gym_1",
+	"service_id": "gym_1_s2",
+	"service_name": "Cardio Workout",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": 1350
+}, {
+	"id": "gym_1",
+	"service_id": "gym_1_s3",
+	"service_name": "Aerobics",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": "1350/month"
+}, {
+	"id": "gym_1",
+	"service_id": "gym_1_s4",
+	"service_name": "Dance Classes",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": "1350/month"
+}, {
+	"id": "gym_1",
+	"service_id": "gym_1_s5",
+	"service_name": "Yoga & Power Yoga",
+	"price": "1200/month",
+	"discount": "10%",
+	"net_price": "1080/month"
+}, {
+	"id": "gym_3",
+	"service_id": "gym_3_s1",
+	"service_name": "Monthly",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "gym_3",
+	"service_id": "gym_3_s2",
+	"service_name": "Two month",
+	"price": "3000/2 month",
+	"discount": "16.66%",
+	"net_price": "2500/2 month"
+}, {
+	"id": "gym_3",
+	"service_id": "gym_3_s3",
+	"service_name": "Three Month",
+	"price": "3500/3 month",
+	"discount": "22.22%",
+	"net_price": "3500/3 month"
+}, {
+	"id": "gym_3",
+	"service_id": "gym_3_s4",
+	"service_name": "Six month",
+	"price": "6500/6 month",
+	"discount": "27.77%",
+	"net_price": "6500/6 month"
+}, {
+	"id": "gym_3",
+	"service_id": "gym_3_s5",
+	"service_name": "One Year",
+	"price": "12000/Yr",
+	"discount": "33.33%",
+	"net_price": "12000/Yr"
+}, {
+	"id": "gym_5",
+	"service_id": "gym_5_s1",
+	"service_name": "Gym",
+	"price": "1000/-",
+	"discount": "500/-",
+	"net_price": "500/-"
+}, {
+	"id": "gym_5",
+	"service_id": "gym_5_s2",
+	"service_name": "Gym",
+	"price": "2500/three month",
+	"discount": "500/-",
+	"net_price": "2000/three month"
+}, {
+	"id": "gym_5",
+	"service_id": "gym_5_s3",
+	"service_name": "Gym",
+	"price": "4500/six month",
+	"discount": "500/-",
+	"net_price": "4000/six month"
+}, {
+	"id": "gym_5",
+	"service_id": "gym_5_s4",
+	"service_name": "Gym",
+	"price": "8000/Yr",
+	"discount": "1000/-",
+	"net_price": "7000/Yr"
+}, {
+	"id": "gym_6",
+	"service_id": "gym_6_s1",
+	"service_name": "Monthly",
+	"price": "1200/-",
+	"discount": "--",
+	"net_price": "1200/-"
+}, {
+	"id": "gym_6",
+	"service_id": "gym_6_s2",
+	"service_name": "3 Month",
+	"price": "3000/-",
+	"discount": "--",
+	"net_price": "3000/-"
+}, {
+	"id": "gym_6",
+	"service_id": "gym_6_s3",
+	"service_name": "6 Month",
+	"price": "5000/-",
+	"discount": "--",
+	"net_price": "5000/-"
+}, {
+	"id": "gym_6",
+	"service_id": "gym_6_s4",
+	"service_name": "1 Year",
+	"price": "8000/-",
+	"discount": "--",
+	"net_price": "8000/-"
+}, {
+	"id": "gym_7",
+	"service_id": "gym_7_s1",
+	"service_name": "Monthly",
+	"price": "2000/-",
+	"discount": "--",
+	"net_price": "2000/-"
+}, {
+	"id": "gym_7",
+	"service_id": "gym_7_s2",
+	"service_name": "Quarterly",
+	"price": "4000/-",
+	"discount": "--",
+	"net_price": "4000/-"
+}, {
+	"id": "gym_7",
+	"service_id": "gym_7_s3",
+	"service_name": "Half Yearly",
+	"price": "7000/-",
+	"discount": "--",
+	"net_price": "7000/-"
+}, {
+	"id": "gym_7",
+	"service_id": "gym_7_s4",
+	"service_name": "Yearly",
+	"price": "12000/-",
+	"discount": "--",
+	"net_price": "12000/-"
+}, {
+	"id": "gym_15",
+	"service_id": "gym_15_s2",
+	"service_name": "Cardio",
+	"price": "1200/month,3600/3month",
+	"discount": "800/-off for 3 months",
+	"net_price": "1200/month,2800/3month"
+}, {
+	"id": "gym_15",
+	"service_id": "gym_15_s3",
+	"service_name": "GYM",
+	"price": "900/month,2700/3month",
+	"discount": "900/-off for 3 months",
+	"net_price": "900/month,1800/3month"
+}, {
+	"id": "gym_16",
+	"service_id": "gym_16_s1",
+	"service_name": "GYM",
+	"price": "800/month",
+	"discount": "--",
+	"net_price": "800/month"
+}, {
+	"id": "gym_16",
+	"service_id": "gym_16_s2",
+	"service_name": "GYM",
+	"price": "1600/2month",
+	"discount": "200/-off for 2 months",
+	"net_price": "1400/2month"
+}, {
+	"id": "gym_16",
+	"service_id": "gym_16_s3",
+	"service_name": "GYM",
+	"price": "2400/3month",
+	"discount": "700/-off for 3 months",
+	"net_price": "1700/3month"
+}, {
+	"id": "gym_16",
+	"service_id": "gym_16_s4",
+	"service_name": "GYM",
+	"price": "4800/6month",
+	"discount": "2000/-off for 3 months",
+	"net_price": "2800/6month"
+}, {
+	"id": "gym_16",
+	"service_id": "gym_16_s5",
+	"service_name": "GYM",
+	"price": "9600/Year",
+	"discount": "6600/-off for 1 Year",
+	"net_price": "3000/Year"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s1",
+	"service_name": "Fitness Classes",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s2",
+	"service_name": "Strengthening",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s3",
+	"service_name": "Weight Loss",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s4",
+	"service_name": "Weight Gain",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s5",
+	"service_name": "Diet Consultancy",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s6",
+	"service_name": "German Therapies for Inch loss",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s7",
+	"service_name": "Aerobics",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s8",
+	"service_name": "Floor Exercise",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_10",
+	"service_id": "gym_10_s1",
+	"service_name": "GYM",
+	"price": "1500/month",
+	"discount": "10%",
+	"net_price": "1350/month"
+}, {
+	"id": "gym_10",
+	"service_id": "gym_10_s2",
+	"service_name": "Aerobics",
+	"price": "1300/month",
+	"discount": "10%",
+	"net_price": "1170/month"
+}, {
+	"id": "gym_10",
+	"service_id": "gym_10_s3",
+	"service_name": "Yoga",
+	"price": "1300/month",
+	"discount": "10%",
+	"net_price": "1170/month"
+}, {
+	"id": "gym_10",
+	"service_id": "gym_10_s4",
+	"service_name": "Zumba",
+	"price": "2000/month",
+	"discount": "10%",
+	"net_price": "1800/month"
+}, {
+	"id": "gym_10",
+	"service_id": "gym_10_s5",
+	"service_name": "SPA",
+	"price": "250/seat",
+	"discount": "--",
+	"net_price": "250/seat"
+}, {
+	"id": "gym_11",
+	"service_id": "gym_11_s1",
+	"service_name": "GYM",
+	"price": "1200/month",
+	"discount": "20%",
+	"net_price": "960/month"
+}, {
+	"id": "gym_11",
+	"service_id": "gym_11_s2",
+	"service_name": "Aerobics",
+	"price": "1200/month",
+	"discount": "20%",
+	"net_price": "960/month"
+}, {
+	"id": "gym_11",
+	"service_id": "gym_11_s3",
+	"service_name": "Slimming",
+	"price": "1200/month",
+	"discount": "20%",
+	"net_price": "960/month"
+}, {
+	"id": "gym_11",
+	"service_id": "gym_11_s4",
+	"service_name": "Beauty",
+	"price": "1200/month",
+	"discount": "20%",
+	"net_price": "960/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s1",
+	"service_name": "Cardio",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s2",
+	"service_name": "Strength",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s3",
+	"service_name": "Aerobics",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s4",
+	"service_name": "Weight Gain",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s5",
+	"service_name": "Weight Loss",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s6",
+	"service_name": "Body Tuning",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_12",
+	"service_id": "gym_12_s7",
+	"service_name": "Inch Loss",
+	"price": "1200/month",
+	"discount": 200,
+	"net_price": "1000/month"
+}, {
+	"id": "gym_8",
+	"service_id": "gym_8_s1",
+	"service_name": "Power Yoga",
+	"price": "1500/month",
+	"discount": "30%",
+	"net_price": "1050/month"
+}, {
+	"id": "gym_8",
+	"service_id": "gym_8_s2",
+	"service_name": "Body Building",
+	"price": "1500/month",
+	"discount": "30%",
+	"net_price": "1050/month"
+}, {
+	"id": "gym_8",
+	"service_id": "gym_8_s3",
+	"service_name": "Aerobics",
+	"price": "1500/month",
+	"discount": "30%",
+	"net_price": "1050/month"
+}, {
+	"id": "gym_8",
+	"service_id": "gym_8_s4",
+	"service_name": "Personal Training",
+	"price": "4000-10000/-",
+	"discount": "--",
+	"net_price": "4000-10000/-"
+}, {
+	"id": "gym_9",
+	"service_id": "gym_9_s1",
+	"service_name": "GYM",
+	"price": "500/month",
+	"discount": "10%",
+	"net_price": "450/month"
+}, {
+	"id": "gym_17",
+	"service_id": "gym_17_s2",
+	"service_name": "Gaining Weight",
+	"price": "4200/Half Yearly",
+	"discount": "--",
+	"net_price": "4200/Half Yearly"
+}, {
+	"id": "gym_17",
+	"service_id": "gym_17_s1",
+	"service_name": "Slimming",
+	"price": "6000/Year",
+	"discount": "--",
+	"net_price": "6000/Year"
+}, {
+	"id": "gym_13",
+	"service_id": "gym_13_s9",
+	"service_name": "Height Gain",
+	"price": "-On Contact-",
+	"discount": "-On Contact-",
+	"net_price": "-On Contact-"
+}, {
+	"id": "gym_14",
+	"service_id": "gym_14_s1",
+	"service_name": "Commando Training",
+	"price": "20,000/Year",
+	"discount": "--",
+	"net_price": "20,000/Year"
+}, {
+	"id": "gym_14",
+	"service_id": "gym_14_s3",
+	"service_name": "Weight Loss",
+	"price": "8000/-",
+	"discount": "15%",
+	"net_price": "6800/-"
+}, {
+	"id": "gym_14",
+	"service_id": "gym_14_s2",
+	"service_name": "GYM",
+	"price": "8000/-",
+	"discount": "15%",
+	"net_price": "6800/-"
+}, {
+	"id": "gym_14",
+	"service_id": "gym_14_s4",
+	"service_name": "Dance Classes",
+	"price": "9500/-",
+	"discount": "15%",
+	"net_price": "8075/-"
+}, {
+	"id": "gym_15",
+	"service_id": "gym_15_s1",
+	"service_name": "Aerobics",
+	"price": "1000/month,3000/3months",
+	"discount": "600/-off for 3 months",
+	"net_price": "1000/month,2400/3months"
+}, {
+	"id": "gym_17",
+	"service_id": "gym_17_s3",
+	"service_name": "Fitness,Cardio, Body Building",
+	"price": "2900/Quarterly",
+	"discount": "--",
+	"net_price": "2900/Quarterly"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s1",
+	"service_name": "Weight Training",
+	"price": "1000/month",
+	"discount": "--",
+	"net_price": "1000/month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s2",
+	"service_name": "Fitness",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s3",
+	"service_name": "Personal Training",
+	"price": "2500/month",
+	"discount": "--",
+	"net_price": "2500/month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s4",
+	"service_name": "Weight Training",
+	"price": "3000/3month",
+	"discount": "10%",
+	"net_price": "2700/3month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s5",
+	"service_name": "Fitness",
+	"price": "4500/3month",
+	"discount": "10%",
+	"net_price": "4050/3month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s6",
+	"service_name": "Personal Training",
+	"price": "7500/3month",
+	"discount": "10%",
+	"net_price": "7500/3month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s7",
+	"service_name": "Weight Training",
+	"price": "6000/6month",
+	"discount": "25%",
+	"net_price": "4500/6month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s8",
+	"service_name": "Fitness",
+	"price": "90000/6month",
+	"discount": "25%",
+	"net_price": "6750/6month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s9",
+	"service_name": "Personal Training",
+	"price": "15000/6month",
+	"discount": "25%",
+	"net_price": "11250/6month"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s10",
+	"service_name": "Weight Training",
+	"price": "12000/Year",
+	"discount": "40%",
+	"net_price": "7200/Year"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s11",
+	"service_name": "Fitness",
+	"price": "18000/Year",
+	"discount": "40%",
+	"net_price": "108000/Year"
+}, {
+	"id": "gym_18",
+	"service_id": "gym_18_s12",
+	"service_name": "Personal Training",
+	"price": "30000/Year",
+	"discount": "40%",
+	"net_price": "18000/Year"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s1",
+	"service_name": "Fitness",
+	"price": "1200/month",
+	"discount": "--",
+	"net_price": "1200/month"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s2",
+	"service_name": "Fitness",
+	"price": "3600/Quarterly",
+	"discount": "600/-off",
+	"net_price": "3000/Quarterly"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s3",
+	"service_name": "Fitness",
+	"price": "7200/Half Yearly",
+	"discount": "1700/-off",
+	"net_price": "5500/Half Yearly"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s4",
+	"service_name": "Fitness",
+	"price": "14400/Yearly",
+	"discount": "4800/-off",
+	"net_price": "9600/Yearly"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s5",
+	"service_name": "Body Building",
+	"price": "500/month",
+	"discount": "--",
+	"net_price": "500/month"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s6",
+	"service_name": "Body Building",
+	"price": "1500/3month",
+	"discount": "300/-off",
+	"net_price": "1200/3month"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s7",
+	"service_name": "Body Building",
+	"price": "3000/6month",
+	"discount": "800/-off",
+	"net_price": "2200/6month"
+}, {
+	"id": "gym_19",
+	"service_id": "gym_19_s8",
+	"service_name": "Body Building",
+	"price": "6000/Year",
+	"discount": "2000/-off",
+	"net_price": "4000/Year"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s1",
+	"service_name": "GYM",
+	"price": "1200/month",
+	"discount": "--",
+	"net_price": "1200/month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s2",
+	"service_name": "GYM(Weight gain)",
+	"price": "700/month",
+	"discount": "--",
+	"net_price": "700/month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s3",
+	"service_name": "GYM(Weight loss)",
+	"price": "3600/3month",
+	"discount": "300/-off",
+	"net_price": "3300/3month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s4",
+	"service_name": "GYM(Weight gain)",
+	"price": "2100/3month",
+	"discount": "200/-off",
+	"net_price": "1900/3month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s5",
+	"service_name": "GYM(Weight loss)",
+	"price": "7200/6month",
+	"discount": "1200/-off",
+	"net_price": "6000/6month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s6",
+	"service_name": "GYM(Weight gain)",
+	"price": "4200/6month",
+	"discount": "600/-off",
+	"net_price": "3600/6month"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s7",
+	"service_name": "GYM(Weight loss)",
+	"price": "14400/Year",
+	"discount": "5400/-off",
+	"net_price": "9000/Year"
+}, {
+	"id": "gym_20",
+	"service_id": "gym_20_s8",
+	"service_name": "GYM(Weight gain)",
+	"price": "8400/Year",
+	"discount": "3000/-off",
+	"net_price": "5400/Year"
+}, {
+	"id": "gym_21",
+	"service_id": "gym_21_s1",
+	"service_name": "GYM",
+	"price": "1600/Year",
+	"discount": "2500/-off",
+	"net_price": "13500/Year"
+}, {
+	"id": "gym_21",
+	"service_id": "gym_21_s2",
+	"service_name": "Steam Shower",
+	"price": "4500/month",
+	"discount": "--",
+	"net_price": "4500/month"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s1",
+	"service_name": "GYM",
+	"price": "1200/month",
+	"discount": "--",
+	"net_price": "1200/month"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s2",
+	"service_name": "GYM",
+	"price": "3600/3month",
+	"discount": "400/-off",
+	"net_price": "3200/3month"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s3",
+	"service_name": "GYM",
+	"price": "7200/6months",
+	"discount": "1700/-off",
+	"net_price": "5500/6months"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s4",
+	"service_name": "GYM",
+	"price": "14400/Year",
+	"discount": "6400/-off",
+	"net_price": "8000/Year"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s5",
+	"service_name": "Personal Training",
+	"price": "5000/month",
+	"discount": "--",
+	"net_price": "5000/month"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s6",
+	"service_name": "Personal Training",
+	"price": "15000/3months",
+	"discount": "300/-off",
+	"net_price": "12000/3months"
+}, {
+	"id": "gym_22",
+	"service_id": "gym_22_s7",
+	"service_name": "Personal Trainig",
+	"price": "30000/6month",
+	"discount": "10000/-off",
+	"net_price": "20000/6month"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s1",
+	"service_name": "Cardio/Aerobics",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s2",
+	"service_name": "Weight Training/Yoga",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s3",
+	"service_name": "SPA",
+	"price": "1500/month",
+	"discount": "--",
+	"net_price": "1500/month"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s4",
+	"service_name": "Cardio/Aerobics",
+	"price": "11000/Yearly",
+	"discount": "5000/-off",
+	"net_price": "6000/Yearly"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s5",
+	"service_name": "Weight Training/Yoga",
+	"price": "11000/Year",
+	"discount": "5000/-off",
+	"net_price": "6000/Year"
+}, {
+	"id": "gym_23",
+	"service_id": "gym_23_s6",
+	"service_name": "SPA",
+	"price": "11000/Year",
+	"discount": "5000/-off",
+	"net_price": "6000/Year"
+}, {
+	"id": "gym_24",
+	"service_id": "gym_24_s1",
+	"service_name": "Cardio",
+	"price": "1000/month",
+	"discount": "100/-off",
+	"net_price": "900/month"
+}, {
+	"id": "gym_24",
+	"service_id": "gym_24_s2",
+	"service_name": "Body Building",
+	"price": "1000/month",
+	"discount": "300/-off",
+	"net_price": "700/month"
+}, {
+	"id": "gym_24",
+	"service_id": "gym_24_s3",
+	"service_name": "Zumba",
+	"price": "1000/month",
+	"discount": "200/-off",
+	"net_price": "800/month"
+}, {
+	"id": "gym_24",
+	"service_id": "gym_24_s4",
+	"service_name": "Aerobics",
+	"price": "1200/-",
+	"discount": "200/-off",
+	"net_price": "1000/-"
+}, {
+	"id": "gym_24",
+	"service_id": "gym_24_s5",
+	"service_name": "Yoga",
+	"price": "1200/-",
+	"discount": "200/-off",
+	"net_price": "1000/-"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s1",
+	"service_name": "Weight Gain/Weight Loss",
+	"price": "600/month",
+	"discount": "--",
+	"net_price": "600/month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s2",
+	"service_name": "Aerobics/Cardio",
+	"price": "600/month",
+	"discount": "--",
+	"net_price": "600/month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s3",
+	"service_name": "Weight Gain/Weight Loss",
+	"price": "1800/3month",
+	"discount": "450/-off",
+	"net_price": "1350/3month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s4",
+	"service_name": "Aerobics/Cardio",
+	"price": "1800/3month",
+	"discount": "450/-off",
+	"net_price": "1350/3month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s5",
+	"service_name": "Weight Gain/Weight Loss",
+	"price": "3600/6month",
+	"discount": "1170/-off",
+	"net_price": "2430/6month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s6",
+	"service_name": "Aerobics/Cardio",
+	"price": "3600/6month",
+	"discount": "1170/-off",
+	"net_price": "2430/6month"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s7",
+	"service_name": "Weight Gain/Weight Loss",
+	"price": "9800/Year",
+	"discount": "980/-off",
+	"net_price": "8820/Year"
+}, {
+	"id": "gym_25",
+	"service_id": "gym_25_s8",
+	"service_name": "Aerobics,Cardio",
+	"price": "9800/Year",
+	"discount": "980/-off",
+	"net_price": "8820/Year"
+}, {
+	"id": "gym_26",
+	"service_id": "gym_26_s1",
+	"service_name": "GYM",
+	"price": "500/-",
+	"discount": "--",
+	"net_price": "500/-"
+}]
