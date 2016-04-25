@@ -95,6 +95,7 @@ myApp.controller('AppCtrl',['$scope','starter.UserService','$ionicModal','$timeo
 }])
 
 myApp.controller('homeCtrl', function($scope,$stateParams,$http,$location,Search) {
+    $scope.choice = {};
   $scope.list_areas = {
         data: [{name: 'Malviya Nagar'},
                {name: 'Sanganer'},
@@ -120,8 +121,8 @@ myApp.controller('homeCtrl', function($scope,$stateParams,$http,$location,Search
   ];
     $scope.selectedChoice = function(){
         // 
-        var selectedArea = 'Malviya Nagar';
-        var selectedService = 'Dancing';
+        var selectedArea = $scope.choice.area;
+        var selectedService = $scope.choice.service;
         Search.area=selectedArea;
         Search.service=selectedService
         
